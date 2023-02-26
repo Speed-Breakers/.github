@@ -1,6 +1,6 @@
 # Note wise
 
-Study up for the 21st century!
+Study app for the 21st century!
 
 ## Problem Statement
 <span align="right"><img src="https://media.tenor.com/M_Io1O2VQpIAAAAd/pdf-document.gif" width=400px ></span>
@@ -27,4 +27,4 @@ Notewise provides a one-stop platform for all your pdfs.
 
 ## Proudly using:
 
-<img src="https://user-images.githubusercontent.com/74727186/221394010-5033369a-394b-4cf9-810a-f29b6f35514f.png" width=200px>    <img src="https://user-images.githubusercontent.com/74727186/221394148-b3dac221-076a-42d8-9faf-ee3435bea3a0.png" width=200px>
+<img src="https://user-images.githubusercontent.com/74727186/221394010-5033369a-394b-4cf9-810a-f29b6f35514f.png" width=200px>    <img src="https://user-images.githubusercontent.com/74727186/221394148-b3dac221-076a-42d8-9faf-ee3435bea3a0.png" width=200px>       <img src="https://user-images.githubusercontent.com/74727186/221394673-5d37a36e-f7d1-4016-82b7-9f274ab90d29.png" width=200px>
